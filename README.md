@@ -13,7 +13,7 @@ Following are the usage patterns our tool can detect as of now.
 
 ## INSTALLATION:
 1. Clone the repository:
-* https://github.com/tajmilur-rahman/toggle-smells.git
+* https://github.com/mzhfei/FeatureToggleDetector.git
 
 2. CD into ts-detector in commandline
 
