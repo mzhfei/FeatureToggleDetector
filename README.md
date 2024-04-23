@@ -1,3 +1,5 @@
+## Original from https://github.com/tajmilur-rahman/toggle-smells
+
 # Toggle Smell Detector
 
 Feature toggle is an worst type of technical debt. There are unknown number of toggle usage patterns created by developers in different source code since there is no standard usage patterns. 
